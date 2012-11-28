@@ -1,5 +1,5 @@
 # Building
-
+# TEST - REMOVE ME
 Spymemcached can be compiled using Apache Ant by running the following
 command:
 
